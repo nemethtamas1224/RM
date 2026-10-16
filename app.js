@@ -114,7 +114,7 @@ function downloadOverview() {
 }
 async function init() {
   try {
-    const r=await fetch('content.json?v=10', {cache:'no-store'});if(!r.ok)throw new Error('Content unavailable');content=await r.json();
+    const r=await fetch('content.json?v=11', {cache:'no-store'});if(!r.ok)throw new Error('Content unavailable');content=await r.json();
     let saved;try{saved=localStorage.getItem('vodar-language')}catch{}
     const query=new URL(location.href).searchParams.get('lang');
     const lang=Object.hasOwn(content,query)&&query!=='settings'?query:Object.hasOwn(content,saved)&&saved!=='settings'?saved:content.settings.defaultLanguage;

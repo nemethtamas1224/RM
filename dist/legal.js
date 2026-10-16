@@ -10,7 +10,7 @@ function showLegal(lang){
 }
 async function startLegal(){
   try{
-    const r=await fetch('content.json?v=10',{cache:'no-store'});if(!r.ok)throw new Error('Content unavailable');legalContent=await r.json();
+    const r=await fetch('content.json?v=11',{cache:'no-store'});if(!r.ok)throw new Error('Content unavailable');legalContent=await r.json();
     let lang=new URL(location.href).searchParams.get('lang');if(!['en','hu','it','de'].includes(lang))lang=legalContent.settings.defaultLanguage;
     showLegal(lang);
     const id=location.hash.slice(1);if(['company','privacy','storage'].includes(id))document.getElementById(id)?.scrollIntoView({behavior:'instant'});

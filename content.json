@@ -112,9 +112,9 @@
           ""
         ],
         [
-          "04 / Channel water supply",
-          "Ditch-fed linear",
-          "A linear system supplied from an irrigation channel. Water intake, travel guidance and the control arrangement are considered together during project planning.",
+          "04 / Irrigation water supply",
+          "Pumping station",
+          "A pumping station designed to supply irrigation systems. Pumps, pipework and electrical controls are coordinated around the water source, required flow rate and operating pressure.",
           ""
         ]
       ],
@@ -265,7 +265,7 @@
       "pivot": "VODAR irrigation machine operating in a green field",
       "corner": "VODAR irrigation structure in the field",
       "linear": "VODAR linear irrigation machine",
-      "ditch": "Water-supply pump station"
+      "ditch": "Irrigation pumping station with multiple pumps and shared pipework"
     },
     "legal": {
       "labels": [
@@ -387,9 +387,9 @@
           ""
         ],
         [
-          "04 / Csatornás vízellátás",
-          "Csatornából táplált lineár",
-          "Öntözőcsatornából vízzel ellátott lineár rendszer. A vízkivétel, a nyomvezetés és a vezérlés kialakítását együtt kell vizsgálni a tervezéskor.",
+          "04 / Öntözési vízellátás",
+          "Szivattyútelep",
+          "Öntözőrendszerek vízellátására kialakított szivattyútelep. A szivattyúk, a csőhálózat és a villamos vezérlés összehangolását a vízforrás, a szükséges vízhozam és az üzemi nyomás alapján tervezzük meg.",
           ""
         ]
       ],
@@ -540,7 +540,7 @@
       "pivot": "VODAR öntözőgép zöld táblán működés közben",
       "corner": "VODAR öntözőgép-szerkezet a táblán",
       "linear": "VODAR lineár öntözőgép",
-      "ditch": "Vízellátó szivattyútelep"
+      "ditch": "Öntözési szivattyútelep több szivattyúval és közös csőhálózattal"
     },
     "legal": {
       "labels": [
@@ -662,9 +662,9 @@
           ""
         ],
         [
-          "04 / Alimentazione da canale",
-          "Lineare alimentato da canale",
-          "Un sistema lineare alimentato da un canale irriguo. La presa d’acqua, la guida e il controllo vengono valutati insieme durante la progettazione.",
+          "04 / Alimentazione idrica per l’irrigazione",
+          "Stazione di pompaggio",
+          "Una stazione di pompaggio per l’alimentazione idrica degli impianti di irrigazione. Pompe, tubazioni e quadri di comando vengono coordinati in base alla fonte idrica, alla portata richiesta e alla pressione di esercizio.",
           ""
         ]
       ],
@@ -815,7 +815,7 @@
       "pivot": "Macchina irrigatrice VODAR in funzione su un campo verde",
       "corner": "Struttura di irrigazione VODAR sul campo",
       "linear": "Macchina irrigatrice lineare VODAR",
-      "ditch": "Stazione di pompaggio per l’approvvigionamento idrico"
+      "ditch": "Stazione di pompaggio per irrigazione con più pompe e tubazioni comuni"
     },
     "legal": {
       "labels": [
@@ -937,9 +937,9 @@
           ""
         ],
         [
-          "04 / Wasserversorgung aus dem Graben",
-          "Grabengespeiste Linearanlage",
-          "Eine aus einem Bewässerungsgraben versorgte Linearanlage. Wasserentnahme, Spurführung und Steuerung werden bei der Projektplanung gemeinsam betrachtet.",
+          "04 / Wasserversorgung für die Bewässerung",
+          "Pumpstation",
+          "Eine Pumpstation zur Wasserversorgung von Bewässerungsanlagen. Pumpen, Rohrleitungen und elektrische Steuerung werden auf die Wasserquelle, den erforderlichen Volumenstrom und den Betriebsdruck abgestimmt.",
           ""
         ]
       ],
@@ -1090,7 +1090,7 @@
       "pivot": "VODAR-Bewässerungsmaschine im Einsatz auf einem grünen Feld",
       "corner": "VODAR-Bewässerungskonstruktion auf dem Feld",
       "linear": "VODAR-Linearbewässerungsmaschine",
-      "ditch": "Pumpstation zur Wasserversorgung"
+      "ditch": "Pumpstation für die Bewässerung mit mehreren Pumpen und gemeinsamen Rohrleitungen"
     },
     "legal": {
       "labels": [
