@@ -1,0 +1,1144 @@
+{
+  "settings": {
+    "defaultLanguage": "en",
+    "email": "info@kantorautomatika.hu",
+    "phone": "+36 30 368 3983",
+    "phoneLink": "+36303683983",
+    "kantorUrl": "https://www.kantorautomatika.hu/",
+    "rmUrl": "https://rmhungary.hu/",
+    "address": "4551 Nyíregyháza, Diák utca 26/A., Hungary",
+    "event": "EIMA International · Bologna · 10–14.11.2026",
+    "showEvent": true,
+    "companies": [
+      {
+        "id": "vodar",
+        "name": "Vodar (Tianjin) Co., Ltd.",
+        "logo": "vodar-logo.png",
+        "url": "https://www.vodar.cn/en/",
+        "address": "No. 7, Liaoning Road, Ziya Circular Economy Industrial Park, Tianjin, China",
+        "email": "info@vodar.cn"
+      },
+      {
+        "id": "kantor",
+        "name": "Kántor Automatika Kft.",
+        "logo": "kantor-logo.jpg",
+        "url": "https://www.kantorautomatika.hu/",
+        "address": "4551 Nyíregyháza, Diák utca 26/A., Hungary",
+        "email": "info@kantorautomatika.hu",
+        "phone": "+36 30 368 3983",
+        "phoneLink": "+36303683983"
+      },
+      {
+        "id": "rm",
+        "name": "RM Hajdú Hungary Kft.",
+        "logo": "rm-logo.png",
+        "url": "https://rmhungary.hu/",
+        "address": "4132 Tépe, Rákóczi u. 8., Hungary",
+        "email": "rmhajduhungary@gmail.com",
+        "phone": "+36 30 278 0944",
+        "phoneLink": "+36302780944"
+      }
+    ],
+    "taxNumber": "26631433-2-15"
+  },
+  "en": {
+    "title": "VODAR irrigation · RM & Kántor Automatika",
+    "description": "VODAR irrigation machines with Kántor Automatika controls. European distribution partnerships coordinated with RM Hajdú Hungary.",
+    "skip": "Skip to content",
+    "language": "Language",
+    "nav": [
+      "Partnership",
+      "Machines",
+      "Control",
+      "Contact"
+    ],
+    "hero": {
+      "eyebrow": "Irrigation equipment. European partnerships.",
+      "title": "Irrigation machines. Intelligent control. One partnership.",
+      "text": "Bring VODAR irrigation equipment and Kántor Automatika controls to your market. Together with RM Hajdú Hungary, we are developing a European network of distributors, installers and technical partners.",
+      "primary": "Become a partner",
+      "secondary": "Explore the systems",
+      "noteTitle": "From the machine to the control panel",
+      "note": "A coordinated equipment and automation offer for your customers.",
+      "meta": "",
+      "alt": "Aerial view of an irrigation machine working across green agricultural fields"
+    },
+    "partnership": {
+      "eyebrow": "The people behind the package",
+      "title": "Chinese precision. Hungarian expertise. A European connection.",
+      "roles": [
+        [
+          "VODAR",
+          "The irrigation equipment manufacturer in China. The machine range includes center pivots, corner solutions and linear irrigation systems."
+        ],
+        [
+          "Kántor Automatika",
+          "The control engineering partner. We design and manufacture the control panels for VODAR irrigation equipment and bring electrical and automation expertise to the package."
+        ],
+        [
+          "RM Hajdú Hungary",
+          "The agricultural machinery trading partner. RM leads commercial coordination and is the main contracting channel for the joint offer and new distribution partnerships."
+        ]
+      ],
+      "web": "Visit company website",
+      "note": "RM Hajdú Hungary and Kántor Automatika jointly connect European partners with VODAR. Commercial proposals and contracts are coordinated primarily through RM; Kántor provides the control and automation expertise.",
+      "companyRoles": [
+        "Irrigation equipment manufacturer",
+        "Controls & automation",
+        "Trading & commercial coordination"
+      ]
+    },
+    "products": {
+      "eyebrow": "The VODAR machine range",
+      "title": "A system for the shape of your fields.",
+      "intro": "Explore the irrigation configurations at the heart of the offer. Machine selection starts with field geometry, water supply and operating requirements.",
+      "items": [
+        [
+          "01 / Circular irrigation",
+          "Center pivot",
+          "A rotating irrigation system for fields served from a fixed central point. Combine the machine with a control package suited to the operating requirements.",
+          ""
+        ],
+        [
+          "02 / Extended coverage",
+          "Corner systems & corner arms",
+          "Extend the irrigated area beyond a standard pivot circle. Corner-arm retrofit projects can also be discussed following a review of the existing machine.",
+          ""
+        ],
+        [
+          "03 / Rectangular fields",
+          "Linear irrigation",
+          "A lateral-moving system for elongated or rectangular fields. The machine and its controls are configured around the travel route and water-supply arrangement.",
+          ""
+        ],
+        [
+          "04 / Channel water supply",
+          "Ditch-fed linear",
+          "A linear system supplied from an irrigation channel. Water intake, travel guidance and the control arrangement are considered together during project planning.",
+          ""
+        ]
+      ],
+      "link": "Discuss this system",
+      "note": "Dimensions, hydraulic requirements, options and retrofit compatibility are confirmed for each project. Ask us for a configuration based on your field layout and available water supply.",
+      "imageCaptions": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "control": {
+      "eyebrow": "Kántor Automatika control engineering",
+      "title": "The intelligence behind the irrigation.",
+      "intro": "Control panels and automation are part of the complete equipment offer, with the configuration matched to the machine and the project.",
+      "caption": "Control panel shown in the exhibition material. Final panel layout and functions depend on the configuration.",
+      "alt": "Kántor Automatika irrigation control cabinet with touchscreen and physical controls",
+      "features": [
+        [
+          "Control panels & local operation",
+          "Electrical design, panel manufacture and machine-control integration, with a local operator interface suited to the application."
+        ],
+        [
+          "Cloud access & remote operation",
+          "Discuss remote monitoring, control and multilingual interface requirements as part of the selected control package."
+        ],
+        [
+          "Smart irrigation data",
+          "Soil-moisture probes, agrometeorological stations and satellite information can be considered when defining the irrigation-data and integration requirements."
+        ],
+        [
+          "Integration around the field",
+          "Machine travel, water supply, pumping and power requirements are reviewed together to define the project scope."
+        ]
+      ],
+      "note": "Cloud services, data sources, interface languages and integrations depend on the selected configuration. We will confirm availability and scope in the technical proposal.",
+      "powerTitle": "Power for the wider installation",
+      "powerEyebrow": "Also at the shared exhibition space",
+      "powerText": "Starpower generating equipment complements the exhibition presentation. Where a project requires an independent power supply, generating equipment can be discussed separately alongside the irrigation and control package.",
+      "powerAlt": "Starpower enclosed generating set"
+    },
+    "network": {
+      "eyebrow": "Build with us across Europe",
+      "title": "Bring the complete package to your market.",
+      "intro": "We welcome conversations with established agricultural and irrigation businesses across Europe. Let us discuss your market, technical capabilities and the role you would like to take.",
+      "types": [
+        "Distributors",
+        "Irrigation dealers",
+        "Installers",
+        "Service partners"
+      ],
+      "support": [
+        "Machine selection, project planning and technical coordination",
+        "Control-system training and commissioning support",
+        "Installation, service, spare parts and warranty coordination",
+        "Product information, sales materials and demonstration opportunities"
+      ],
+      "note": "Support scope, territories, commercial terms and responsibilities are agreed individually with each partner.",
+      "cta": "Discuss a partnership"
+    },
+    "field": {
+      "eyebrow": "Equipment in the field",
+      "title": "Start with the real conditions.",
+      "text": "A useful proposal starts with practical information: the field layout and crop, water source, available flow and pressure, power supply, and the local service plan. Together, RM and Kántor can turn these inputs into a coordinated machine-and-control discussion.",
+      "alt": "Irrigation equipment installed beside a cultivated field",
+      "facts": [
+        [
+          "The machine",
+          "Field geometry & water supply"
+        ],
+        [
+          "The control",
+          "Operation & integration"
+        ]
+      ]
+    },
+    "faq": {
+      "eyebrow": "Before we talk",
+      "title": "Your partnership questions.",
+      "items": [
+        [
+          "Who handles the commercial agreement?",
+          "RM Hajdú Hungary is the main commercial and contracting partner for the joint offer. Kántor Automatika contributes the control panels and automation expertise; the relevant parties and responsibilities will be confirmed in the proposal."
+        ],
+        [
+          "Can I offer both the machine and its controls?",
+          "Yes. The aim is to develop partners who can offer the VODAR machine together with the Kántor control package. Product configuration, delivery scope and partner responsibilities are agreed for each relationship."
+        ],
+        [
+          "Which European countries are you looking at?",
+          "We welcome enquiries from across Europe. Tell us your country and the area you cover so we can discuss market opportunities and any existing arrangements."
+        ],
+        [
+          "Can existing equipment be upgraded?",
+          "Corner-arm retrofit and control-modernisation projects can be reviewed. Compatibility must be checked against the machine make, model, age, electrical system and operating conditions."
+        ],
+        [
+          "What should I send with my enquiry?",
+          "For a partnership, include your company, country, website and current activities. For a machine project, add the field layout, water source, flow, pressure and power supply where available."
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "Let’s make the connection",
+      "title": "Your next irrigation partnership starts here.",
+      "text": "Tell us about your company and the market you serve. Your enquiry starts with Kántor Automatika and is coordinated with RM for the commercial next steps.",
+      "emailLabel": "EMAIL",
+      "phoneLabel": "PHONE",
+      "company": "Kántor Automatika Kft.",
+      "eventLabel": "Meet us at",
+      "formTitle": "Introduce your company",
+      "name": "Your name",
+      "business": "Company",
+      "email": "Business email",
+      "country": "Country / market",
+      "interest": "I am interested in",
+      "options": [
+        "Distribution partnership",
+        "Installation / service partnership",
+        "Machine project",
+        "EIMA meeting",
+        "Other enquiry"
+      ],
+      "message": "Tell us about your business or project",
+      "send": "Prepare email enquiry",
+      "note": "This opens your email application with your enquiry filled in. Nothing is sent or stored by this page. Please review and send the email in your email application.",
+      "feedback": "Your email draft is ready. If your email app did not open, use the email link or copy the enquiry below.",
+      "copy": "Copy enquiry",
+      "copied": "Enquiry copied.",
+      "copyFallback": "Select and copy the enquiry text below.",
+      "subject": "VODAR European partnership enquiry",
+      "downloadTitle": "Keep the essentials",
+      "downloadText": "Download a short overview in the selected language, including the partnership roles and contact details.",
+      "download": "Download overview (.txt)"
+    },
+    "footer": {
+      "text": "VODAR equipment · RM Hajdú Hungary · Kántor Automatika",
+      "main": "Kántor Automatika",
+      "rm": "RM Hajdú Hungary",
+      "back": "Back to top",
+      "companyDetails": "Company details",
+      "privacy": "Privacy notice",
+      "storage": "Cookies & local storage",
+      "contact": "Contact"
+    },
+    "alt": {
+      "pivot": "VODAR irrigation machine operating in a green field",
+      "corner": "VODAR irrigation structure in the field",
+      "linear": "VODAR linear irrigation machine",
+      "ditch": "Water-supply pump station"
+    },
+    "legal": {
+      "labels": [
+        "Company details",
+        "Privacy notice",
+        "Cookies & local storage",
+        "Contact"
+      ],
+      "pageTitle": "Company details and privacy",
+      "back": "Back to the website",
+      "companyTitle": "Company details and contact",
+      "tax": "Tax number",
+      "companyText": "The contact company is Kántor Automatika Kft. In the joint VODAR equipment offer, RM Hajdú Hungary is the main commercial and contracting partner and Kántor Automatika provides control engineering. The quotation and contract identify the parties to each agreement.",
+      "privacyTitle": "Privacy notice",
+      "privacyItems": [
+        [
+          "Enquiries on this page",
+          "The enquiry form contains the visitor’s name, company, email, country or market, area of interest and message. While being completed, these fields remain in browser memory. This landing page’s code does not submit them to a server or save them in local storage."
+        ],
+        [
+          "Sending an email",
+          "The “Prepare email enquiry” button opens the visitor’s email application. An email is sent only if the visitor sends it from that application. The recipient is info@kantorautomatika.hu. The legal basis, retention periods and provider details for received correspondence must be defined in the final notice."
+        ],
+        [
+          "Purpose and partner coordination",
+          "The enquiry concerns irrigation equipment, controls and European partnerships. This page does not automatically forward form data to RM or VODAR. Any subsequent sharing arrangements and the roles of the companies involved must be specified in the final notice."
+        ],
+        [
+          "Hosting and technical data",
+          "The private review website is served through Sites hosting and its access system. The complete technical-data handling and providers associated with hosting, access and email must be clarified when the final hosting is selected."
+        ],
+        [
+          "Privacy questions",
+          "Privacy questions and requests can be sent to info@kantorautomatika.hu. Subject to the applicable conditions, individuals may have rights of access, rectification, erasure, restriction, objection and portability, and may seek supervisory or judicial remedies."
+        ]
+      ],
+      "storageTitle": "Cookies and local storage",
+      "storageText": "The landing page’s own code does not include an analytics service, marketing pixel or marketing cookies. Browser local storage saves the selected language code under “vodar-language”. It contains no name or email address and remains until the browser’s site data is cleared. Language selection also works without local storage. Any cookies used by the hosting or sign-in system must be addressed in the final provider information.",
+      "pendingTitle": "Information to confirm before finalisation",
+      "pending": [
+        "Controller roles, legal bases and retention periods for received enquiries.",
+        "Hosting and email providers, processors and any data transfers.",
+        "Data-sharing arrangements with RM and VODAR, including any transfers outside the EU.",
+        "Company registration details and final hosting-provider information."
+      ],
+      "rightsLink": "Information on data-subject rights — NAIH",
+      "lawLink": "General Data Protection Regulation — GDPR",
+      "updated": "Updated: 16 October 2026"
+    }
+  },
+  "hu": {
+    "title": "VODAR öntözés · RM és Kántor Automatika",
+    "description": "VODAR öntözőgépek Kántor Automatika vezérléssel. Európai partnerhálózat az RM Hajdú Hungary közreműködésével.",
+    "skip": "Ugrás a tartalomra",
+    "language": "Nyelv",
+    "nav": [
+      "Együttműködés",
+      "Gépek",
+      "Vezérlés",
+      "Kapcsolat"
+    ],
+    "hero": {
+      "eyebrow": "Öntözőgépek. Európai partnerkapcsolatok.",
+      "title": "Öntözőgép. Intelligens vezérlés. Közös megoldás.",
+      "text": "Kínáljon VODAR öntözőgépeket Kántor Automatika vezérléssel saját piacán. Az RM Hajdú Hungary vállalattal együtt európai forgalmazói, telepítői és műszaki partnerhálózatot építünk.",
+      "primary": "Legyen partnerünk",
+      "secondary": "Ismerje meg a rendszereket",
+      "noteTitle": "Az öntözőgéptől a vezérlésig",
+      "note": "Összehangolt gépészeti és automatizálási kínálat az Ön ügyfeleinek.",
+      "meta": "",
+      "alt": "Légi felvétel zöld mezőgazdasági területen működő öntözőgépről"
+    },
+    "partnership": {
+      "eyebrow": "A teljes csomag mögött",
+      "title": "Kínai precizitás. Magyar szakértelem. Európai kapcsolat.",
+      "roles": [
+        [
+          "VODAR",
+          "Az öntözőgépek kínai gyártója. A kínálatban körforgó, corner és lineár öntözőrendszerek szerepelnek."
+        ],
+        [
+          "Kántor Automatika",
+          "A vezérléstechnikai partner. Tervezzük és gyártjuk a VODAR öntözőgépek vezérlőszekrényeit, valamint villamos és automatizálási szakértelmet adunk a teljes csomaghoz."
+        ],
+        [
+          "RM Hajdú Hungary",
+          "A mezőgazdasági gépkereskedelmi partner. A közös kínálat és az új forgalmazói kapcsolatok kereskedelmi koordinációját és a szerződéskötést elsősorban az RM fogja össze."
+        ]
+      ],
+      "web": "A vállalat weboldala",
+      "note": "Az RM Hajdú Hungary és a Kántor Automatika közösen kapcsolja össze az európai partnereket a VODAR-ral. Az ajánlatok és szerződések fő kereskedelmi csatornája az RM, a vezérléstechnikai és automatizálási hátteret a Kántor biztosítja.",
+      "companyRoles": [
+        "Öntözőgépgyártás",
+        "Vezérléstechnika és automatizálás",
+        "Gépkereskedelem és kereskedelmi koordináció"
+      ]
+    },
+    "products": {
+      "eyebrow": "VODAR gépkínálat",
+      "title": "A tábla alakjához illő rendszer.",
+      "intro": "Ismerje meg az ajánlat alapját adó öntözési megoldásokat. A gépválasztás a táblageometriából, a vízellátásból és az üzemeltetési igényekből indul ki.",
+      "items": [
+        [
+          "01 / Körkörös öntözés",
+          "Körforgó öntözőgép",
+          "Rögzített középpontból ellátott, körpályán mozgó öntözőrendszer. A géphez az üzemeltetési követelményeknek megfelelő vezérlési csomag társítható.",
+          ""
+        ],
+        [
+          "02 / Kiterjesztett lefedettség",
+          "Corner rendszerek és corner karok",
+          "A hagyományos pivot körön túli területek öntözésére. Meglévő gépre történő cornerkar-utólagos felszerelés is egyeztethető, a fogadó gép műszaki vizsgálatával.",
+          ""
+        ],
+        [
+          "03 / Téglalap alakú táblák",
+          "Lineár öntözőgép",
+          "Egyenes vonalban haladó rendszer hosszúkás vagy téglalap alakú táblákhoz. A gépet és vezérlését a haladási útvonalhoz és a vízbetáplálás módjához igazítjuk.",
+          ""
+        ],
+        [
+          "04 / Csatornás vízellátás",
+          "Csatornából táplált lineár",
+          "Öntözőcsatornából vízzel ellátott lineár rendszer. A vízkivétel, a nyomvezetés és a vezérlés kialakítását együtt kell vizsgálni a tervezéskor.",
+          ""
+        ]
+      ],
+      "link": "Egyeztessünk erről a rendszerről",
+      "note": "A méreteket, a hidraulikai igényeket, az opciókat és az utólagos felszerelés kompatibilitását projektenként pontosítjuk. Kérjen konfigurációt a táblatérkép és a rendelkezésre álló vízellátás alapján.",
+      "imageCaptions": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "control": {
+      "eyebrow": "Kántor Automatika vezérléstechnika",
+      "title": "Az öntözés mögött dolgozó intelligencia.",
+      "intro": "A vezérlőszekrény és az automatizálás a teljes gépkínálat része; kialakításuk a géphez és a projekthez igazodik.",
+      "caption": "A kiállítási anyagon szereplő vezérlőszekrény. A végleges kialakítás és a funkciók a konfigurációtól függenek.",
+      "alt": "Kántor Automatika öntözésvezérlő szekrény érintőképernyővel és kezelőszervekkel",
+      "features": [
+        [
+          "Vezérlőszekrény és helyi kezelés",
+          "Villamos tervezés, szekrénygyártás és gépvezérlési integráció, a feladathoz illő helyi kezelőfelülettel."
+        ],
+        [
+          "Felhőalapú hozzáférés és távvezérlés",
+          "A kiválasztott vezérlési csomag részeként egyeztetjük a távfelügyelet, a távvezérlés és a többnyelvű kezelőfelület igényeit."
+        ],
+        [
+          "Intelligens öntözési adatok",
+          "Talajnedvesség-szondák, agrometeorológiai állomások és műholdas információk is figyelembe vehetők az adatkezelési és integrációs igények meghatározásakor."
+        ],
+        [
+          "Összehangolt rendszer a táblán",
+          "A gépmozgás, a vízellátás, a szivattyúzás és az energiaellátás követelményeit együtt vizsgáljuk a műszaki tartalom kialakításához."
+        ]
+      ],
+      "note": "A felhőszolgáltatások, adatforrások, felületi nyelvek és integrációk a választott konfigurációtól függenek. Elérhetőségüket és pontos tartalmukat a műszaki ajánlatban rögzítjük.",
+      "powerTitle": "Energia a teljes telepítéshez",
+      "powerEyebrow": "A közös kiállítótéren is bemutatva",
+      "powerText": "A kiállítási megjelenést Starpower áramfejlesztő berendezés egészíti ki. Ha a projekt önálló energiaellátást igényel, az áramfejlesztő külön is egyeztethető az öntözőgép és a vezérlés mellé.",
+      "powerAlt": "Burkolt Starpower áramfejlesztő gépegység"
+    },
+    "network": {
+      "eyebrow": "Építsük együtt az európai hálózatot",
+      "title": "Vigye piacra a teljes csomagot.",
+      "intro": "Európa-szerte várjuk a mezőgazdasági és öntözési vállalkozások jelentkezését. Beszéljünk az Ön piacáról, műszaki hátteréről és az együttműködésben vállalt szerepéről.",
+      "types": [
+        "Forgalmazók",
+        "Öntözéstechnikai kereskedők",
+        "Telepítők",
+        "Szervizpartnerek"
+      ],
+      "support": [
+        "Gépválasztás, projekttervezés és műszaki koordináció",
+        "Vezérléstechnikai oktatás és beüzemelési támogatás",
+        "Telepítési, szerviz-, alkatrész- és garanciális egyeztetés",
+        "Termékinformációk, értékesítési anyagok és bemutatási lehetőségek"
+      ],
+      "note": "A támogatás tartalmát, a területeket, a kereskedelmi feltételeket és a felelősségi köröket minden partnerrel egyedileg egyeztetjük.",
+      "cta": "Egyeztessünk az együttműködésről"
+    },
+    "field": {
+      "eyebrow": "Gépek valódi környezetben",
+      "title": "A valós adottságokból indulunk ki.",
+      "text": "A használható ajánlat alapja a táblatérkép és a növénykultúra, a vízforrás, a rendelkezésre álló vízhozam és nyomás, az energiaellátás és a helyi szervizháttér. Az RM és a Kántor ezekből az adatokból kiindulva egyezteti a gép és a vezérlés összehangolt kialakítását.",
+      "alt": "Öntözőberendezés mezőgazdasági terület mellett",
+      "facts": [
+        [
+          "A gép",
+          "Táblageometria és vízellátás"
+        ],
+        [
+          "A vezérlés",
+          "Üzemeltetés és integráció"
+        ]
+      ]
+    },
+    "faq": {
+      "eyebrow": "Az első egyeztetés előtt",
+      "title": "Kérdések az együttműködésről.",
+      "items": [
+        [
+          "Ki kezeli a kereskedelmi megállapodást?",
+          "A közös kínálat fő kereskedelmi és szerződéses partnere az RM Hajdú Hungary. A Kántor Automatika a vezérlőszekrényekkel és az automatizálási szaktudással járul hozzá; az érintett feleket és felelősségeket az ajánlatban pontosítjuk."
+        ],
+        [
+          "Értékesíthetem együtt a gépet és a vezérlést?",
+          "Igen. Olyan partnereket keresünk, akik a VODAR gépet a Kántor vezérlési csomagjával együtt kínálják. A konfigurációt, a szállítási tartalmat és a partner feladatait egyedileg egyeztetjük."
+        ],
+        [
+          "Mely európai országokból várnak partnereket?",
+          "Egész Európából várjuk a megkereséseket. Adja meg országát és működési területét, hogy megbeszélhessük a piaci lehetőségeket és az esetleges meglévő megállapodásokat."
+        ],
+        [
+          "Korszerűsíthető meglévő berendezés?",
+          "Cornerkar-utólagos felszerelési és vezérléskorszerűsítési projektek vizsgálhatók. A kompatibilitás ellenőrzéséhez ismerni kell a gép gyártóját, típusát, korát, villamos rendszerét és üzemeltetési körülményeit."
+        ],
+        [
+          "Milyen adatokat küldjek az érdeklődéshez?",
+          "Partneri megkeresésnél a cégnevet, országot, weboldalt és jelenlegi tevékenységet. Gépigénynél lehetőség szerint a táblatérképet, vízforrást, vízhozamot, nyomást és energiaellátást is."
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "Kapcsolódjunk össze",
+      "title": "Itt kezdődhet a következő öntözési együttműködése.",
+      "text": "Mutassa be vállalkozását és piacát. A megkeresés a Kántor Automatikához érkezik, a kereskedelmi következő lépéseket az RM-mel közösen egyeztetjük.",
+      "emailLabel": "E-MAIL",
+      "phoneLabel": "TELEFON",
+      "company": "Kántor Automatika Kft.",
+      "eventLabel": "Találkozzunk itt:",
+      "formTitle": "Mutassa be vállalkozását",
+      "name": "Név",
+      "business": "Cégnév",
+      "email": "Üzleti e-mail",
+      "country": "Ország / piac",
+      "interest": "Ez érdekel",
+      "options": [
+        "Forgalmazói együttműködés",
+        "Telepítői / szervizegyüttműködés",
+        "Öntözőgép-projekt",
+        "EIMA-találkozó",
+        "Egyéb megkeresés"
+      ],
+      "message": "Mutassa be vállalkozását vagy projektjét",
+      "send": "Érdeklődő e-mail előkészítése",
+      "note": "Megnyitja a levelezőprogramot a kitöltött megkereséssel. Az oldal nem küldi el és nem tárolja az adatokat. Ellenőrizze, majd küldje el a levelet a levelezőprogramjában.",
+      "feedback": "Az e-mail szövege elkészült. Ha nem nyílt meg a levelezőprogram, használja az e-mail-hivatkozást vagy másolja ki az alábbi szöveget.",
+      "copy": "Megkeresés másolása",
+      "copied": "A megkeresés másolva.",
+      "copyFallback": "Jelölje ki és másolja ki az alábbi szöveget.",
+      "subject": "VODAR európai partneri megkeresés",
+      "downloadTitle": "A legfontosabbak egy helyen",
+      "downloadText": "Töltse le a rövid összefoglalót a kiválasztott nyelven, a partneri szerepekkel és az elérhetőségekkel.",
+      "download": "Összefoglaló letöltése (.txt)"
+    },
+    "footer": {
+      "text": "VODAR gépek · RM Hajdú Hungary · Kántor Automatika",
+      "main": "Kántor Automatika",
+      "rm": "RM Hajdú Hungary",
+      "back": "Vissza az elejére",
+      "companyDetails": "Cégadatok",
+      "privacy": "Adatkezelési tájékoztató",
+      "storage": "Sütik és helyi tárolás",
+      "contact": "Kapcsolat"
+    },
+    "alt": {
+      "pivot": "VODAR öntözőgép zöld táblán működés közben",
+      "corner": "VODAR öntözőgép-szerkezet a táblán",
+      "linear": "VODAR lineár öntözőgép",
+      "ditch": "Vízellátó szivattyútelep"
+    },
+    "legal": {
+      "labels": [
+        "Cégadatok",
+        "Adatkezelési tájékoztató",
+        "Sütik és helyi tárolás",
+        "Kapcsolat"
+      ],
+      "pageTitle": "Cégadatok és adatkezelés",
+      "back": "Vissza az oldalra",
+      "companyTitle": "Cégadatok és elérhetőségek",
+      "tax": "Adószám",
+      "companyText": "A kapcsolattartó a Kántor Automatika Kft. A VODAR gépek közös kínálatában az RM Hajdú Hungary a fő kereskedelmi és szerződéses partner, a Kántor Automatika a vezérléstechnikai partner. Az egyes megállapodások feleit az ajánlat és a szerződés rögzíti.",
+      "privacyTitle": "Adatkezelési tájékoztató",
+      "privacyItems": [
+        [
+          "Kapcsolatfelvétel az oldalon",
+          "Az érdeklődő űrlap neve, cégneve, e-mail-címe, országa vagy piaca, érdeklődési témája és üzenete az oldalon történő kitöltés alatt a böngésző memóriájában található. A landing oldal kódja nem küldi el ezeket szerverre és nem menti őket helyi tárolóba."
+        ],
+        [
+          "Az e-mail elküldése",
+          "Az „Érdeklődő e-mail előkészítése” gomb megnyitja a látogató levelezőprogramját. Az e-mail csak akkor kerül elküldésre, ha a látogató a levelezőprogramjában elküldi azt. Címzett: info@kantorautomatika.hu. A beérkező levelezés kezelésére vonatkozó jogalapot, megőrzési időt és szolgáltatói adatokat a végleges tájékoztatóban kell meghatározni."
+        ],
+        [
+          "Az egyeztetés célja és a partnerkapcsolat",
+          "A megkeresés célja az öntözőgépekkel, vezérléssel és az európai partnerkapcsolatokkal kapcsolatos egyeztetés. Az oldal nem továbbít automatikusan űrlapadatokat az RM-nek vagy a VODAR-nak. Az esetleges további adattovábbítás feltételeit és az érintett adatkezelők szerepét a végleges tájékoztatóban kell rögzíteni."
+        ],
+        [
+          "Tárhely és technikai adatok",
+          "A privát bemutatóoldal elérését a Sites tárhely és annak hozzáférési rendszere szolgálja ki. A tárhely, a hozzáférés és a levelezés során keletkező technikai adatok és szolgáltatók teljes körét a végleges tárhely kiválasztásakor kell pontosítani."
+        ],
+        [
+          "Adatvédelmi kérdések",
+          "Adatkezelési kérdés vagy kérelem az info@kantorautomatika.hu címen jelezhető. Az alkalmazandó feltételek szerint az érintettet hozzáférési, helyesbítési, törlési, korlátozási, tiltakozási és adathordozhatósági jog, továbbá hatósági és bírósági jogorvoslat illetheti meg."
+        ]
+      ],
+      "storageTitle": "Sütik és helyi tárolás",
+      "storageText": "A landing oldal saját kódjában nincs analitikai szolgáltatás, marketingpixel vagy marketinges süti. A böngésző helyi tárolójában a „vodar-language” kulcs a kiválasztott nyelv kódját menti. Ez nem tartalmaz nevet vagy e-mail-címet, és a böngésző webhelyadatainak törléséig megmarad. A nyelvválasztás helyi tároló nélkül is működik. A tárhely és a belépési rendszer esetleges saját sütijeit a végleges szolgáltatói tájékoztatásban kell ismertetni.",
+      "pendingTitle": "A véglegesítéshez pontosítandó",
+      "pending": [
+        "A beérkező megkeresések adatkezelői szerepei, jogalapjai és megőrzési idői.",
+        "A tárhely- és levelezőszolgáltatók, adatfeldolgozók és az esetleges adattovábbítások.",
+        "Az RM-mel és a VODAR-ral történő adatmegosztás feltételei, ideértve az esetleges EU-n kívüli adattovábbítást.",
+        "A cégnyilvántartási adatok és a végleges tárhelyszolgáltató adatai."
+      ],
+      "rightsLink": "Tájékoztató az érintetti jogokról — NAIH",
+      "lawLink": "Általános adatvédelmi rendelet — GDPR",
+      "updated": "Frissítve: 2026. október 16."
+    }
+  },
+  "it": {
+    "title": "Irrigazione VODAR · RM e Kántor Automatika",
+    "description": "Macchine irrigatrici VODAR con quadri di controllo Kántor Automatika. Collaborazioni europee coordinate con RM Hajdú Hungary.",
+    "skip": "Vai al contenuto",
+    "language": "Lingua",
+    "nav": [
+      "Collaborazione",
+      "Macchine",
+      "Controllo",
+      "Contatti"
+    ],
+    "hero": {
+      "eyebrow": "Macchine irrigatrici. Collaborazioni europee.",
+      "title": "Macchine irrigatrici. Controllo intelligente. Un’unica collaborazione.",
+      "text": "Portate sul vostro mercato le macchine irrigatrici VODAR con i controlli Kántor Automatika. Insieme a RM Hajdú Hungary stiamo sviluppando una rete europea di distributori, installatori e partner tecnici.",
+      "primary": "Diventate partner",
+      "secondary": "Scoprite i sistemi",
+      "noteTitle": "Dalla macchina al quadro di controllo",
+      "note": "Un’offerta coordinata di attrezzature e automazione per i vostri clienti.",
+      "meta": "",
+      "alt": "Vista aerea di una macchina irrigatrice su campi agricoli verdi"
+    },
+    "partnership": {
+      "eyebrow": "Chi c’è dietro la soluzione",
+      "title": "Precisione cinese. Competenza ungherese. Un collegamento europeo.",
+      "roles": [
+        [
+          "VODAR",
+          "Il produttore cinese delle macchine irrigatrici. La gamma comprende pivot centrali, soluzioni corner e sistemi lineari."
+        ],
+        [
+          "Kántor Automatika",
+          "Il partner per l’ingegneria dei controlli. Progettiamo e realizziamo i quadri di controllo delle macchine irrigatrici VODAR, apportando competenze elettriche e di automazione."
+        ],
+        [
+          "RM Hajdú Hungary",
+          "Il partner commerciale per le macchine agricole. RM guida il coordinamento commerciale ed è il principale riferimento contrattuale per l’offerta congiunta e le nuove collaborazioni distributive."
+        ]
+      ],
+      "web": "Visitate il sito aziendale",
+      "note": "RM Hajdú Hungary e Kántor Automatika collegano insieme i partner europei a VODAR. Le proposte commerciali e i contratti sono coordinati principalmente da RM; Kántor fornisce le competenze di controllo e automazione.",
+      "companyRoles": [
+        "Produzione di macchine irrigatrici",
+        "Controlli e automazione",
+        "Commercio e coordinamento commerciale"
+      ]
+    },
+    "products": {
+      "eyebrow": "La gamma di macchine VODAR",
+      "title": "Un sistema adatto alla forma dei vostri campi.",
+      "intro": "Scoprite le configurazioni di irrigazione al centro dell’offerta. La scelta parte dalla geometria del campo, dall’approvvigionamento idrico e dalle esigenze operative.",
+      "items": [
+        [
+          "01 / Irrigazione circolare",
+          "Pivot centrale",
+          "Un sistema rotante per campi alimentati da un punto centrale fisso. La macchina si abbina a un pacchetto di controllo adeguato alle esigenze operative.",
+          ""
+        ],
+        [
+          "02 / Copertura estesa",
+          "Sistemi e bracci corner",
+          "Per estendere l’area irrigata oltre il cerchio del pivot tradizionale. È possibile valutare anche l’installazione di un braccio corner su macchine esistenti, previa verifica tecnica.",
+          ""
+        ],
+        [
+          "03 / Campi rettangolari",
+          "Sistema lineare",
+          "Un sistema a traslazione laterale per campi allungati o rettangolari. La macchina e i controlli vengono configurati in base al percorso e al sistema di alimentazione idrica.",
+          ""
+        ],
+        [
+          "04 / Alimentazione da canale",
+          "Lineare alimentato da canale",
+          "Un sistema lineare alimentato da un canale irriguo. La presa d’acqua, la guida e il controllo vengono valutati insieme durante la progettazione.",
+          ""
+        ]
+      ],
+      "link": "Parliamo di questo sistema",
+      "note": "Dimensioni, requisiti idraulici, opzioni e compatibilità per gli aggiornamenti vengono confermati per ogni progetto. Richiedete una configurazione basata sulla planimetria e sulle risorse idriche disponibili.",
+      "imageCaptions": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "control": {
+      "eyebrow": "Ingegneria dei controlli Kántor Automatika",
+      "title": "L’intelligenza dietro l’irrigazione.",
+      "intro": "Quadri di controllo e automazione fanno parte dell’offerta completa, con una configurazione adeguata alla macchina e al progetto.",
+      "caption": "Quadro di controllo raffigurato nel materiale fieristico. La disposizione finale e le funzioni dipendono dalla configurazione.",
+      "alt": "Quadro di controllo per irrigazione Kántor Automatika con touchscreen e comandi fisici",
+      "features": [
+        [
+          "Quadri di controllo e comando locale",
+          "Progettazione elettrica, costruzione dei quadri e integrazione del controllo macchina, con un’interfaccia operatore locale adatta all’applicazione."
+        ],
+        [
+          "Accesso cloud e comando remoto",
+          "Valutiamo le esigenze di monitoraggio, comando remoto e interfaccia multilingue nell’ambito del pacchetto di controllo scelto."
+        ],
+        [
+          "Dati per l’irrigazione intelligente",
+          "Sonde di umidità del suolo, stazioni agrometeorologiche e informazioni satellitari possono essere considerate nella definizione dei requisiti di dati e integrazione."
+        ],
+        [
+          "Integrazione sul campo",
+          "Movimento della macchina, approvvigionamento idrico, pompaggio e alimentazione elettrica vengono esaminati insieme per definire il progetto."
+        ]
+      ],
+      "note": "Servizi cloud, fonti dati, lingue dell’interfaccia e integrazioni dipendono dalla configurazione scelta. Disponibilità e ambito saranno confermati nella proposta tecnica.",
+      "powerTitle": "Energia per l’intero impianto",
+      "powerEyebrow": "Anche nello spazio fieristico condiviso",
+      "powerText": "I gruppi elettrogeni Starpower completano la presentazione in fiera. Se il progetto richiede un’alimentazione autonoma, è possibile discutere separatamente la generazione elettrica insieme al pacchetto di irrigazione e controllo.",
+      "powerAlt": "Gruppo elettrogeno Starpower insonorizzato"
+    },
+    "network": {
+      "eyebrow": "Cresciamo insieme in Europa",
+      "title": "Portate sul vostro mercato la soluzione completa.",
+      "intro": "Siamo interessati a conoscere aziende agricole e di irrigazione già attive in Europa. Parliamo del vostro mercato, delle vostre competenze tecniche e del ruolo che desiderate assumere.",
+      "types": [
+        "Distributori",
+        "Rivenditori di irrigazione",
+        "Installatori",
+        "Partner di assistenza"
+      ],
+      "support": [
+        "Scelta delle macchine, pianificazione e coordinamento tecnico",
+        "Formazione sui controlli e supporto alla messa in servizio",
+        "Coordinamento di installazione, assistenza, ricambi e garanzia",
+        "Informazioni di prodotto, materiali commerciali e opportunità dimostrative"
+      ],
+      "note": "Supporto, territori, condizioni commerciali e responsabilità vengono concordati individualmente con ciascun partner.",
+      "cta": "Parliamo di una collaborazione"
+    },
+    "field": {
+      "eyebrow": "Macchine sul campo",
+      "title": "Partiamo dalle condizioni reali.",
+      "text": "Una proposta utile parte da informazioni concrete: planimetria e coltura, fonte idrica, portata e pressione disponibili, alimentazione elettrica e assistenza locale. Insieme, RM e Kántor possono trasformare questi dati in una proposta coordinata di macchina e controllo.",
+      "alt": "Attrezzatura per irrigazione installata accanto a un campo coltivato",
+      "facts": [
+        [
+          "La macchina",
+          "Geometria del campo e acqua"
+        ],
+        [
+          "Il controllo",
+          "Funzionamento e integrazione"
+        ]
+      ]
+    },
+    "faq": {
+      "eyebrow": "Prima di parlarne",
+      "title": "Le vostre domande sulla collaborazione.",
+      "items": [
+        [
+          "Chi gestisce l’accordo commerciale?",
+          "RM Hajdú Hungary è il principale partner commerciale e contrattuale per l’offerta congiunta. Kántor Automatika contribuisce con i quadri di controllo e le competenze di automazione. Parti coinvolte e responsabilità saranno confermate nella proposta."
+        ],
+        [
+          "Posso offrire sia la macchina sia i controlli?",
+          "Sì. L’obiettivo è sviluppare partner che offrano la macchina VODAR insieme al pacchetto di controllo Kántor. Configurazione, fornitura e responsabilità vengono concordate per ogni collaborazione."
+        ],
+        [
+          "In quali Paesi europei cercate partner?",
+          "Accogliamo richieste da tutta Europa. Indicate il vostro Paese e l’area coperta per valutare le opportunità e gli eventuali accordi esistenti."
+        ],
+        [
+          "È possibile aggiornare macchine esistenti?",
+          "Possiamo valutare progetti di installazione di bracci corner e ammodernamento dei controlli. La compatibilità va verificata in base a marca, modello, età, impianto elettrico e condizioni operative."
+        ],
+        [
+          "Cosa devo includere nella richiesta?",
+          "Per una collaborazione: azienda, Paese, sito web e attività attuali. Per un progetto: anche planimetria, fonte idrica, portata, pressione e alimentazione elettrica, se disponibili."
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "Creiamo un collegamento",
+      "title": "La vostra prossima collaborazione nell’irrigazione inizia qui.",
+      "text": "Presentate la vostra azienda e il mercato servito. La richiesta arriva a Kántor Automatika; i successivi passi commerciali saranno coordinati con RM.",
+      "emailLabel": "E-MAIL",
+      "phoneLabel": "TELEFONO",
+      "company": "Kántor Automatika Kft.",
+      "eventLabel": "Incontriamoci a",
+      "formTitle": "Presentate la vostra azienda",
+      "name": "Nome",
+      "business": "Azienda",
+      "email": "E-mail aziendale",
+      "country": "Paese / mercato",
+      "interest": "Sono interessato a",
+      "options": [
+        "Collaborazione distributiva",
+        "Installazione / assistenza",
+        "Progetto di irrigazione",
+        "Incontro a EIMA",
+        "Altra richiesta"
+      ],
+      "message": "Descrivete la vostra azienda o il progetto",
+      "send": "Prepara la richiesta e-mail",
+      "note": "Si aprirà il vostro programma di posta con la richiesta compilata. La pagina non invia né memorizza i dati. Controllate e inviate l’e-mail dal vostro programma di posta.",
+      "feedback": "La bozza è pronta. Se il programma di posta non si è aperto, usate il collegamento e-mail o copiate il testo seguente.",
+      "copy": "Copia richiesta",
+      "copied": "Richiesta copiata.",
+      "copyFallback": "Selezionate e copiate il testo seguente.",
+      "subject": "Richiesta di collaborazione europea VODAR",
+      "downloadTitle": "Le informazioni essenziali con voi",
+      "downloadText": "Scaricate una breve panoramica nella lingua selezionata, con i ruoli dei partner e i contatti.",
+      "download": "Scarica panoramica (.txt)"
+    },
+    "footer": {
+      "text": "Macchine VODAR · RM Hajdú Hungary · Kántor Automatika",
+      "main": "Kántor Automatika",
+      "rm": "RM Hajdú Hungary",
+      "back": "Torna all’inizio",
+      "companyDetails": "Dati aziendali",
+      "privacy": "Informativa privacy",
+      "storage": "Cookie e memoria locale",
+      "contact": "Contatti"
+    },
+    "alt": {
+      "pivot": "Macchina irrigatrice VODAR in funzione su un campo verde",
+      "corner": "Struttura di irrigazione VODAR sul campo",
+      "linear": "Macchina irrigatrice lineare VODAR",
+      "ditch": "Stazione di pompaggio per l’approvvigionamento idrico"
+    },
+    "legal": {
+      "labels": [
+        "Dati aziendali",
+        "Informativa privacy",
+        "Cookie e memoria locale",
+        "Contatti"
+      ],
+      "pageTitle": "Dati aziendali e privacy",
+      "back": "Torna al sito",
+      "companyTitle": "Dati aziendali e contatti",
+      "tax": "Numero fiscale",
+      "companyText": "L’azienda di contatto è Kántor Automatika Kft. Nell’offerta congiunta VODAR, RM Hajdú Hungary è il principale partner commerciale e contrattuale, mentre Kántor Automatika fornisce le competenze di controllo. Il preventivo e il contratto identificano le parti di ciascun accordo.",
+      "privacyTitle": "Informativa privacy",
+      "privacyItems": [
+        [
+          "Richieste tramite la pagina",
+          "Il modulo contiene nome, azienda, e-mail, Paese o mercato, interesse e messaggio del visitatore. Durante la compilazione i dati rimangono nella memoria del browser. Il codice della pagina non li invia a un server e non li salva nella memoria locale."
+        ],
+        [
+          "Invio di un’e-mail",
+          "Il pulsante “Prepara la richiesta e-mail” apre il programma di posta del visitatore. L’e-mail viene inviata solo se il visitatore la invia da quel programma. Il destinatario è info@kantorautomatika.hu. Base giuridica, conservazione e fornitori per la corrispondenza ricevuta devono essere definiti nell’informativa finale."
+        ],
+        [
+          "Finalità e coordinamento con i partner",
+          "La richiesta riguarda macchine irrigatrici, controlli e collaborazioni europee. La pagina non inoltra automaticamente i dati a RM o VODAR. Eventuali condivisioni successive e ruoli delle aziende devono essere specificati nell’informativa finale."
+        ],
+        [
+          "Hosting e dati tecnici",
+          "Il sito privato di revisione utilizza l’hosting Sites e il relativo sistema di accesso. Il trattamento completo dei dati tecnici e i fornitori di hosting, accesso e posta devono essere chiariti scegliendo l’hosting definitivo."
+        ],
+        [
+          "Domande sulla privacy",
+          "Domande e richieste possono essere inviate a info@kantorautomatika.hu. Secondo le condizioni applicabili, l’interessato può avere diritti di accesso, rettifica, cancellazione, limitazione, opposizione e portabilità, e ricorrere all’autorità o al giudice."
+        ]
+      ],
+      "storageTitle": "Cookie e memoria locale",
+      "storageText": "Il codice della pagina non include servizi di analisi, pixel di marketing o cookie di marketing. La memoria locale del browser salva il codice della lingua scelta sotto “vodar-language”. Non contiene nomi o indirizzi e-mail e rimane fino alla cancellazione dei dati del sito nel browser. La scelta della lingua funziona anche senza memoria locale. Gli eventuali cookie dell’hosting o del sistema di accesso devono essere descritti nelle informazioni definitive sui fornitori.",
+      "pendingTitle": "Informazioni da confermare",
+      "pending": [
+        "Ruoli dei titolari, basi giuridiche e conservazione delle richieste ricevute.",
+        "Fornitori di hosting e posta, responsabili del trattamento e trasferimenti.",
+        "Condivisione con RM e VODAR, inclusi eventuali trasferimenti fuori dall’UE.",
+        "Dati del registro imprese e del fornitore di hosting definitivo."
+      ],
+      "rightsLink": "Informazioni sui diritti dell’interessato — NAIH",
+      "lawLink": "Regolamento generale sulla protezione dei dati — GDPR",
+      "updated": "Aggiornato: 16 ottobre 2026"
+    }
+  },
+  "de": {
+    "title": "VODAR Bewässerung · RM & Kántor Automatika",
+    "description": "VODAR-Bewässerungsmaschinen mit Steuerungen von Kántor Automatika. Europäische Vertriebspartnerschaften gemeinsam mit RM Hajdú Hungary.",
+    "skip": "Zum Inhalt springen",
+    "language": "Sprache",
+    "nav": [
+      "Partnerschaft",
+      "Maschinen",
+      "Steuerung",
+      "Kontakt"
+    ],
+    "hero": {
+      "eyebrow": "Bewässerungstechnik. Europäische Partnerschaften.",
+      "title": "Bewässerungsmaschinen. Intelligente Steuerung. Eine Partnerschaft.",
+      "text": "Bringen Sie VODAR-Bewässerungstechnik mit Steuerungen von Kántor Automatika in Ihren Markt. Gemeinsam mit RM Hajdú Hungary bauen wir ein europäisches Netzwerk aus Vertriebs-, Installations- und Technikpartnern auf.",
+      "primary": "Partner werden",
+      "secondary": "Systeme entdecken",
+      "noteTitle": "Von der Maschine bis zum Schaltschrank",
+      "note": "Ein abgestimmtes Angebot aus Bewässerungstechnik und Automatisierung für Ihre Kunden.",
+      "meta": "",
+      "alt": "Luftaufnahme einer Bewässerungsmaschine auf grünen landwirtschaftlichen Flächen"
+    },
+    "partnership": {
+      "eyebrow": "Die Partner hinter dem Gesamtpaket",
+      "title": "Chinesische Präzision. Ungarisches Know-how. Europäische Verbindung.",
+      "roles": [
+        [
+          "VODAR",
+          "Der Hersteller der Bewässerungsmaschinen in China. Das Angebot umfasst Center-Pivot-Anlagen, Corner-Lösungen und Linearbewässerungssysteme."
+        ],
+        [
+          "Kántor Automatika",
+          "Der Partner für Steuerungstechnik. Wir planen und fertigen die Schaltschränke für VODAR-Bewässerungsmaschinen und ergänzen das Gesamtpaket um Elektro- und Automatisierungskompetenz."
+        ],
+        [
+          "RM Hajdú Hungary",
+          "Der Handelspartner für Landmaschinen. RM übernimmt die kaufmännische Koordination und ist der zentrale Vertragspartner für das gemeinsame Angebot und neue Vertriebspartnerschaften."
+        ]
+      ],
+      "web": "Unternehmenswebsite besuchen",
+      "note": "RM Hajdú Hungary und Kántor Automatika verbinden europäische Partner gemeinsam mit VODAR. Angebote und Verträge werden hauptsächlich über RM koordiniert; Kántor bringt die Steuerungs- und Automatisierungstechnik ein.",
+      "companyRoles": [
+        "Hersteller von Bewässerungstechnik",
+        "Steuerung und Automatisierung",
+        "Handel und kaufmännische Koordination"
+      ]
+    },
+    "products": {
+      "eyebrow": "Das VODAR-Maschinenangebot",
+      "title": "Ein System passend zu Ihrer Feldform.",
+      "intro": "Entdecken Sie die Bewässerungskonfigurationen unseres Angebots. Ausgangspunkt der Auswahl sind Feldgeometrie, Wasserversorgung und betriebliche Anforderungen.",
+      "items": [
+        [
+          "01 / Kreisbewässerung",
+          "Center-Pivot-Anlage",
+          "Ein rotierendes Bewässerungssystem mit einem festen zentralen Versorgungspunkt. Die Maschine wird mit einem auf den Betrieb abgestimmten Steuerungspaket kombiniert.",
+          ""
+        ],
+        [
+          "02 / Erweiterte Abdeckung",
+          "Corner-Systeme und Corner-Arme",
+          "Zur Bewässerung zusätzlicher Flächen außerhalb des üblichen Pivot-Kreises. Die Nachrüstung eines Corner-Arms kann nach Prüfung der vorhandenen Maschine besprochen werden.",
+          ""
+        ],
+        [
+          "03 / Rechteckige Felder",
+          "Linearbewässerung",
+          "Ein seitlich verfahrendes System für langgestreckte oder rechteckige Felder. Maschine und Steuerung werden auf Fahrweg und Wasserversorgung abgestimmt.",
+          ""
+        ],
+        [
+          "04 / Wasserversorgung aus dem Graben",
+          "Grabengespeiste Linearanlage",
+          "Eine aus einem Bewässerungsgraben versorgte Linearanlage. Wasserentnahme, Spurführung und Steuerung werden bei der Projektplanung gemeinsam betrachtet.",
+          ""
+        ]
+      ],
+      "link": "Dieses System besprechen",
+      "note": "Abmessungen, hydraulische Anforderungen, Optionen und Nachrüstkompatibilität werden für jedes Projekt bestätigt. Fragen Sie eine Konfiguration auf Basis Ihres Feldplans und Ihrer verfügbaren Wasserversorgung an.",
+      "imageCaptions": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "control": {
+      "eyebrow": "Steuerungstechnik von Kántor Automatika",
+      "title": "Die Intelligenz hinter der Bewässerung.",
+      "intro": "Schaltschränke und Automatisierung gehören zum Gesamtangebot. Die Konfiguration wird auf die Maschine und das Projekt abgestimmt.",
+      "caption": "Schaltschrank aus dem Messematerial. Der endgültige Aufbau und die Funktionen hängen von der Konfiguration ab.",
+      "alt": "Bewässerungsschaltschrank von Kántor Automatika mit Touchscreen und Bedienelementen",
+      "features": [
+        [
+          "Schaltschränke und lokale Bedienung",
+          "Elektroplanung, Schaltschrankbau und Integration der Maschinensteuerung mit einer zur Anwendung passenden lokalen Bedienoberfläche."
+        ],
+        [
+          "Cloud-Zugriff und Fernbedienung",
+          "Anforderungen an Fernüberwachung, Fernsteuerung und mehrsprachige Bedienoberflächen werden im Rahmen des gewählten Steuerungspakets abgestimmt."
+        ],
+        [
+          "Daten für intelligente Bewässerung",
+          "Bodenfeuchtesonden, agrometeorologische Stationen und Satelliteninformationen können bei der Definition der Daten- und Integrationsanforderungen berücksichtigt werden."
+        ],
+        [
+          "Integration auf dem Feld",
+          "Maschinenbewegung, Wasserversorgung, Pumpen und Stromversorgung werden gemeinsam betrachtet, um den Projektumfang festzulegen."
+        ]
+      ],
+      "note": "Cloud-Dienste, Datenquellen, Oberflächensprachen und Integrationen hängen von der gewählten Konfiguration ab. Verfügbarkeit und Umfang bestätigen wir im technischen Angebot.",
+      "powerTitle": "Energie für die gesamte Anlage",
+      "powerEyebrow": "Auch auf der gemeinsamen Ausstellungsfläche",
+      "powerText": "Starpower-Stromerzeuger ergänzen den Messeauftritt. Benötigt ein Projekt eine unabhängige Stromversorgung, kann die Stromerzeugung ergänzend zum Bewässerungs- und Steuerungspaket separat besprochen werden.",
+      "powerAlt": "Gekapseltes Starpower-Stromaggregat"
+    },
+    "network": {
+      "eyebrow": "Gemeinsam in Europa wachsen",
+      "title": "Bringen Sie das Gesamtpaket in Ihren Markt.",
+      "intro": "Wir freuen uns auf den Austausch mit etablierten Agrar- und Bewässerungsunternehmen in ganz Europa. Sprechen wir über Ihren Markt, Ihre technischen Fähigkeiten und Ihre gewünschte Rolle.",
+      "types": [
+        "Vertriebspartner",
+        "Bewässerungsfachhändler",
+        "Installationsbetriebe",
+        "Servicepartner"
+      ],
+      "support": [
+        "Maschinenauswahl, Projektplanung und technische Koordination",
+        "Schulung zur Steuerung und Unterstützung bei der Inbetriebnahme",
+        "Abstimmung von Installation, Service, Ersatzteilen und Garantie",
+        "Produktinformationen, Vertriebsunterlagen und Vorführmöglichkeiten"
+      ],
+      "note": "Unterstützungsumfang, Gebiete, kaufmännische Bedingungen und Verantwortlichkeiten werden mit jedem Partner individuell vereinbart.",
+      "cta": "Partnerschaft besprechen"
+    },
+    "field": {
+      "eyebrow": "Technik im praktischen Einsatz",
+      "title": "Die tatsächlichen Bedingungen zählen.",
+      "text": "Ein hilfreiches Angebot beginnt mit konkreten Angaben: Feldplan und Kultur, Wasserquelle, verfügbarer Durchfluss und Druck, Stromversorgung sowie der lokale Serviceplan. Auf dieser Grundlage stimmen RM und Kántor Maschine und Steuerung gemeinsam ab.",
+      "alt": "Bewässerungstechnik neben einem bewirtschafteten Feld",
+      "facts": [
+        [
+          "Die Maschine",
+          "Feldgeometrie und Wasser"
+        ],
+        [
+          "Die Steuerung",
+          "Betrieb und Integration"
+        ]
+      ]
+    },
+    "faq": {
+      "eyebrow": "Vor dem ersten Gespräch",
+      "title": "Ihre Fragen zur Partnerschaft.",
+      "items": [
+        [
+          "Wer übernimmt die kaufmännische Vereinbarung?",
+          "RM Hajdú Hungary ist der zentrale kaufmännische und vertragliche Partner für das gemeinsame Angebot. Kántor Automatika bringt Schaltschränke und Automatisierungskompetenz ein. Beteiligte Parteien und Zuständigkeiten werden im Angebot bestätigt."
+        ],
+        [
+          "Kann ich Maschine und Steuerung zusammen anbieten?",
+          "Ja. Wir suchen Partner, die VODAR-Maschinen gemeinsam mit dem Kántor-Steuerungspaket anbieten. Konfiguration, Lieferumfang und Partneraufgaben werden für jede Zusammenarbeit abgestimmt."
+        ],
+        [
+          "Für welche europäischen Länder suchen Sie Partner?",
+          "Wir begrüßen Anfragen aus ganz Europa. Nennen Sie Ihr Land und Ihr Tätigkeitsgebiet, damit wir Marktchancen und mögliche bestehende Vereinbarungen besprechen können."
+        ],
+        [
+          "Können vorhandene Anlagen nachgerüstet werden?",
+          "Corner-Arm-Nachrüstungen und Steuerungsmodernisierungen können geprüft werden. Die Kompatibilität ist anhand von Hersteller, Modell, Alter, elektrischer Anlage und Betriebsbedingungen zu überprüfen."
+        ],
+        [
+          "Welche Angaben sollte meine Anfrage enthalten?",
+          "Für eine Partnerschaft: Firma, Land, Website und bisherige Tätigkeiten. Für ein Maschinenprojekt zusätzlich möglichst Feldplan, Wasserquelle, Durchfluss, Druck und Stromversorgung."
+        ]
+      ]
+    },
+    "contact": {
+      "eyebrow": "Lassen Sie uns ins Gespräch kommen",
+      "title": "Hier beginnt Ihre nächste Bewässerungspartnerschaft.",
+      "text": "Stellen Sie Ihr Unternehmen und Ihren Markt vor. Ihre Anfrage geht zunächst an Kántor Automatika; die nächsten kaufmännischen Schritte stimmen wir mit RM ab.",
+      "emailLabel": "E-MAIL",
+      "phoneLabel": "TELEFON",
+      "company": "Kántor Automatika Kft.",
+      "eventLabel": "Treffen Sie uns auf der",
+      "formTitle": "Stellen Sie Ihr Unternehmen vor",
+      "name": "Ihr Name",
+      "business": "Unternehmen",
+      "email": "Geschäftliche E-Mail",
+      "country": "Land / Markt",
+      "interest": "Ich interessiere mich für",
+      "options": [
+        "Vertriebspartnerschaft",
+        "Installation / Servicepartnerschaft",
+        "Maschinenprojekt",
+        "EIMA-Termin",
+        "Sonstige Anfrage"
+      ],
+      "message": "Beschreiben Sie Ihr Unternehmen oder Projekt",
+      "send": "E-Mail-Anfrage vorbereiten",
+      "note": "Öffnet Ihr E-Mail-Programm mit der ausgefüllten Anfrage. Diese Seite versendet und speichert keine Angaben. Prüfen und versenden Sie die E-Mail in Ihrem E-Mail-Programm.",
+      "feedback": "Ihr Entwurf ist fertig. Falls Ihr E-Mail-Programm nicht geöffnet wurde, verwenden Sie den E-Mail-Link oder kopieren Sie den folgenden Text.",
+      "copy": "Anfrage kopieren",
+      "copied": "Anfrage kopiert.",
+      "copyFallback": "Markieren und kopieren Sie den folgenden Text.",
+      "subject": "Anfrage zur europäischen VODAR-Partnerschaft",
+      "downloadTitle": "Das Wichtigste zum Mitnehmen",
+      "downloadText": "Laden Sie eine kurze Übersicht in der gewählten Sprache mit Partnerrollen und Kontaktdaten herunter.",
+      "download": "Übersicht herunterladen (.txt)"
+    },
+    "footer": {
+      "text": "VODAR-Maschinen · RM Hajdú Hungary · Kántor Automatika",
+      "main": "Kántor Automatika",
+      "rm": "RM Hajdú Hungary",
+      "back": "Nach oben",
+      "companyDetails": "Unternehmensangaben",
+      "privacy": "Datenschutzhinweise",
+      "storage": "Cookies und lokaler Speicher",
+      "contact": "Kontakt"
+    },
+    "alt": {
+      "pivot": "VODAR-Bewässerungsmaschine im Einsatz auf einem grünen Feld",
+      "corner": "VODAR-Bewässerungskonstruktion auf dem Feld",
+      "linear": "VODAR-Linearbewässerungsmaschine",
+      "ditch": "Pumpstation zur Wasserversorgung"
+    },
+    "legal": {
+      "labels": [
+        "Unternehmensangaben",
+        "Datenschutzhinweise",
+        "Cookies und lokaler Speicher",
+        "Kontakt"
+      ],
+      "pageTitle": "Unternehmensangaben und Datenschutz",
+      "back": "Zurück zur Website",
+      "companyTitle": "Unternehmensangaben und Kontakt",
+      "tax": "Steuernummer",
+      "companyText": "Kontaktunternehmen ist Kántor Automatika Kft. Im gemeinsamen VODAR-Angebot ist RM Hajdú Hungary der zentrale kaufmännische und vertragliche Partner; Kántor Automatika übernimmt die Steuerungstechnik. Angebot und Vertrag benennen die Parteien der jeweiligen Vereinbarung.",
+      "privacyTitle": "Datenschutzhinweise",
+      "privacyItems": [
+        [
+          "Anfragen auf dieser Seite",
+          "Das Formular enthält Name, Unternehmen, E-Mail, Land oder Markt, Interesse und Nachricht des Besuchers. Beim Ausfüllen bleiben die Angaben im Arbeitsspeicher des Browsers. Der Code dieser Seite sendet sie nicht an einen Server und speichert sie nicht im lokalen Speicher."
+        ],
+        [
+          "E-Mail-Versand",
+          "Die Schaltfläche „E-Mail-Anfrage vorbereiten“ öffnet das E-Mail-Programm des Besuchers. Eine E-Mail wird erst versendet, wenn der Besucher sie dort selbst absendet. Empfänger ist info@kantorautomatika.hu. Rechtsgrundlage, Speicherdauer und Anbieter für eingegangene Korrespondenz müssen in den endgültigen Hinweisen festgelegt werden."
+        ],
+        [
+          "Zweck und Partnerkoordination",
+          "Die Anfrage betrifft Bewässerungstechnik, Steuerungen und europäische Partnerschaften. Diese Seite leitet Formulardaten nicht automatisch an RM oder VODAR weiter. Spätere Weitergaben und die Rollen der beteiligten Unternehmen müssen in den endgültigen Hinweisen beschrieben werden."
+        ],
+        [
+          "Hosting und technische Daten",
+          "Die private Prüfversion wird über Sites und dessen Zugangssystem bereitgestellt. Die vollständige Verarbeitung technischer Daten und die Anbieter für Hosting, Zugang und E-Mail müssen bei der Wahl des endgültigen Hostings geklärt werden."
+        ],
+        [
+          "Datenschutzfragen",
+          "Fragen und Anträge können an info@kantorautomatika.hu gerichtet werden. Unter den geltenden Voraussetzungen können Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch und Übertragbarkeit sowie behördlicher und gerichtlicher Rechtsschutz bestehen."
+        ]
+      ],
+      "storageTitle": "Cookies und lokaler Speicher",
+      "storageText": "Der eigene Code der Landingpage enthält keinen Analysedienst, kein Marketingpixel und keine Marketing-Cookies. Der lokale Browserspeicher speichert den gewählten Sprachcode unter „vodar-language“. Er enthält weder Namen noch E-Mail-Adressen und bleibt bis zum Löschen der Website-Daten im Browser bestehen. Die Sprachauswahl funktioniert auch ohne lokalen Speicher. Etwaige Cookies des Hostings oder Zugangssystems müssen in den endgültigen Anbieterinformationen behandelt werden.",
+      "pendingTitle": "Vor der Fertigstellung zu klären",
+      "pending": [
+        "Verantwortlichkeiten, Rechtsgrundlagen und Speicherdauern für eingegangene Anfragen.",
+        "Hosting- und E-Mail-Anbieter, Auftragsverarbeiter und Datenübermittlungen.",
+        "Datenaustausch mit RM und VODAR einschließlich möglicher Übermittlungen außerhalb der EU.",
+        "Handelsregisterangaben und Angaben zum endgültigen Hosting-Anbieter."
+      ],
+      "rightsLink": "Informationen zu Betroffenenrechten — NAIH",
+      "lawLink": "Datenschutz-Grundverordnung — DSGVO",
+      "updated": "Aktualisiert: 16. Oktober 2026"
+    }
+  }
+}
