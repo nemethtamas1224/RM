@@ -110,4 +110,4 @@ h1,h2,h3{hyphens:none}
 @media(max-width:600px){.header-brand{gap:4px;padding:8px 0}.kantor-header-link{font-size:11px}}
 
 /* Fill the corner product frame, keeping the machine in view. */
-.product-image.selected-photo[src$="corner-selected-v15.jpg"]{object-fit:cover;object-position:center 60%}
+.product-image.selected-photo[src*="corner-selected-v15"]{object-fit:cover;object-position:center 60%}
