@@ -13,7 +13,7 @@
       {
         "id": "vodar",
         "name": "Vodar (Tianjin) Co., Ltd.",
-        "logo": "vodar-logo.png",
+        "logo": "vodar-logo-lossless.webp",
         "url": "https://www.vodar.cn/en/",
         "address": "No. 7, Liaoning Road, Ziya Circular Economy Industrial Park, Tianjin, China",
         "email": "info@vodar.cn"
@@ -31,7 +31,7 @@
       {
         "id": "rm",
         "name": "RM Hajdú Hungary Kft.",
-        "logo": "rm-logo.png",
+        "logo": "rm-logo-lossless.webp",
         "url": "https://rmhungary.hu/",
         "address": "4132 Tépe, Rákóczi u. 8., Hungary",
         "email": "rmhajduhungary@gmail.com",
@@ -247,9 +247,11 @@
       "copied": "Enquiry copied.",
       "copyFallback": "Select and copy the enquiry text below.",
       "subject": "VODAR European partnership enquiry",
-      "downloadTitle": "Keep the essentials",
-      "downloadText": "Download a short overview in the selected language, including the partnership roles and contact details.",
-      "download": "Download overview (.txt)"
+      "downloadTitle": "VODAR & Kántor Automatika – 2026 brochure",
+      "downloadText": "Download the brochure presenting our products and control solutions. PDF · 54 MB.",
+      "download": "Download brochure (PDF)",
+      "downloadPending": "Preparing download…",
+      "downloadError": "Download failed. Please try again."
     },
     "footer": {
       "text": "VODAR equipment · RM Hajdú Hungary · Kántor Automatika",
@@ -522,9 +524,11 @@
       "copied": "A megkeresés másolva.",
       "copyFallback": "Jelölje ki és másolja ki az alábbi szöveget.",
       "subject": "VODAR európai partneri megkeresés",
-      "downloadTitle": "A legfontosabbak egy helyen",
-      "downloadText": "Töltse le a rövid összefoglalót a kiválasztott nyelven, a partneri szerepekkel és az elérhetőségekkel.",
-      "download": "Összefoglaló letöltése (.txt)"
+      "downloadTitle": "VODAR és Kántor Automatika – prospektus 2026",
+      "downloadText": "Töltse le a termékeket és vezérlési megoldásokat bemutató prospektust. PDF · 54 MB.",
+      "download": "Prospektus letöltése (PDF)",
+      "downloadPending": "Letöltés előkészítése…",
+      "downloadError": "A letöltés nem sikerült. Kérjük, próbálja újra."
     },
     "footer": {
       "text": "VODAR gépek · RM Hajdú Hungary · Kántor Automatika",
@@ -797,9 +801,11 @@
       "copied": "Richiesta copiata.",
       "copyFallback": "Selezionate e copiate il testo seguente.",
       "subject": "Richiesta di collaborazione europea VODAR",
-      "downloadTitle": "Le informazioni essenziali con voi",
-      "downloadText": "Scaricate una breve panoramica nella lingua selezionata, con i ruoli dei partner e i contatti.",
-      "download": "Scarica panoramica (.txt)"
+      "downloadTitle": "VODAR e Kántor Automatika – catalogo 2026",
+      "downloadText": "Scaricate il catalogo dei prodotti e delle soluzioni di controllo. PDF · 54 MB.",
+      "download": "Scarica il catalogo (PDF)",
+      "downloadPending": "Preparazione del download…",
+      "downloadError": "Download non riuscito. Riprovate."
     },
     "footer": {
       "text": "Macchine VODAR · RM Hajdú Hungary · Kántor Automatika",
@@ -1072,9 +1078,11 @@
       "copied": "Anfrage kopiert.",
       "copyFallback": "Markieren und kopieren Sie den folgenden Text.",
       "subject": "Anfrage zur europäischen VODAR-Partnerschaft",
-      "downloadTitle": "Das Wichtigste zum Mitnehmen",
-      "downloadText": "Laden Sie eine kurze Übersicht in der gewählten Sprache mit Partnerrollen und Kontaktdaten herunter.",
-      "download": "Übersicht herunterladen (.txt)"
+      "downloadTitle": "VODAR und Kántor Automatika – Prospekt 2026",
+      "downloadText": "Laden Sie den Prospekt zu unseren Produkten und Steuerungslösungen herunter. PDF · 54 MB.",
+      "download": "Prospekt herunterladen (PDF)",
+      "downloadPending": "Download wird vorbereitet…",
+      "downloadError": "Download fehlgeschlagen. Bitte versuchen Sie es erneut."
     },
     "footer": {
       "text": "VODAR-Maschinen · RM Hajdú Hungary · Kántor Automatika",

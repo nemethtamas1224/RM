@@ -90,3 +90,13 @@ h1,h2,h3{hyphens:none}
 .faq-list details p{padding:0 24px 24px;line-height:1.85}
 @media(max-width:600px){.photo-note strong{font-size:13px}.faq-list summary{padding:20px 46px 20px 20px;font-size:14px}.faq-list summary:after{right:19px;top:14px}.faq-list details p{padding:0 20px 20px}}
 @media(prefers-reduced-motion:reduce){.faq-list details{transition:none}}
+
+/* Rounded, accessible language selector shared by the landing and legal pages. */
+.language{border-left:0;padding-left:0;flex-shrink:0}
+.language select{border:1px solid #ffffff80;border-radius:999px;padding:11px 14px;background:#ffffff20;color:#fff;min-width:126px;max-width:148px;transition:background .2s,border-color .2s}
+.language select:hover{background:#ffffff30;border-color:#fff}
+.language select:focus-visible{outline:2px solid #fff;outline-offset:3px}
+.button:disabled{cursor:wait;opacity:.7}
+.download-error{color:#a51b2a;font-size:12px}
+@media(max-width:600px){.language select{min-width:104px;max-width:112px;padding:10px 8px}}
+@media(max-width:360px){.language{padding-left:0}.language select{min-width:98px;max-width:102px}}

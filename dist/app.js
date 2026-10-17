@@ -47,9 +47,9 @@ function render(lang, preserve={}) {
       <div class="products">${c.products.items.map((p,i)=>`<article class="product"><img class="product-image selected-photo" src="assets/${images[i]}" alt="${esc(c.alt[alts[i]])}" width="960" height="640" loading="lazy"><div class="product-body"><small>${esc(p[0])}</small><h3>${esc(p[1])}</h3><p>${esc(p[2])}</p><div class="product-spec">${esc(p[3])}</div><a class="system-enquiry" href="#contact" data-system="${i}">${esc(c.products.link)} ↗</a></div></article>`).join('')}</div><p class="range-note">${esc(c.products.note)}</p>
     </div></section>
     <section class="section" id="control"><div class="wrap"><div class="control-grid">
-      <div><span class="eyebrow">${esc(c.control.eyebrow)}</span><h2>${esc(c.control.title)}</h2><p class="lead">${esc(c.control.intro)}</p><div class="panel-visual"><img src="assets/control-panel-transparent-v12.png" width="1536" height="1024" loading="lazy" alt="${esc(c.control.alt)}"><p class="image-caption">${esc(c.control.caption)}</p></div></div>
+      <div><span class="eyebrow">${esc(c.control.eyebrow)}</span><h2>${esc(c.control.title)}</h2><p class="lead">${esc(c.control.intro)}</p><div class="panel-visual"><img src="assets/control-panel-transparent-v12-lossless.webp" width="1536" height="1024" loading="lazy" alt="${esc(c.control.alt)}"><p class="image-caption">${esc(c.control.caption)}</p></div></div>
       <div>${c.control.features.map((f,i)=>`<article class="feature"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.4" aria-hidden="true">${icons[i]}</svg><div><h3>${esc(f[0])}</h3><p>${esc(f[1])}</p></div></article>`).join('')}<p class="technical-note">${esc(c.control.note)}</p>${button(c.hero.primary,'#contact')}</div>
-    </div><div class="power"><img src="assets/starpower-transparent.png" loading="lazy" width="960" height="640" alt="${esc(c.control.powerAlt)}"><div class="power-copy"><span class="eyebrow">${esc(c.control.powerEyebrow)}</span><h3>${esc(c.control.powerTitle)}</h3><p>${esc(c.control.powerText)}</p></div></div></div></section>
+    </div><div class="power"><img src="assets/starpower-transparent-lossless.webp" loading="lazy" width="960" height="640" alt="${esc(c.control.powerAlt)}"><div class="power-copy"><span class="eyebrow">${esc(c.control.powerEyebrow)}</span><h3>${esc(c.control.powerTitle)}</h3><p>${esc(c.control.powerText)}</p></div></div></div></section>
     <section class="section network" id="partners"><div class="wrap network-grid"><div><span class="eyebrow">${esc(c.network.eyebrow)}</span><h2>${esc(c.network.title)}</h2><p class="lead">${esc(c.network.intro)}</p><div class="partner-types">${c.network.types.map(t=>`<span>${esc(t)}</span>`).join('')}</div></div><div><ul class="support-list">${c.network.support.map(t=>`<li>${esc(t)}</li>`).join('')}</ul><p class="network-note">${esc(c.network.note)}</p>${button(c.network.cta,'#contact','white')}</div></div></section>
     <section class="section"><div class="wrap field-story"><img src="assets/installation.webp" loading="lazy" width="1500" height="1000" alt="${esc(c.field.alt)}"><div><span class="eyebrow">${esc(c.field.eyebrow)}</span><h2>${esc(c.field.title)}</h2><p>${esc(c.field.text)}</p><div class="facts">${c.field.facts.map(f=>`<div><strong>${esc(f[0])}</strong><span>${esc(f[1])}</span></div>`).join('')}</div></div></div></section>
     <section class="section pale" id="questions"><div class="wrap"><div class="section-heading"><span class="eyebrow">${esc(c.faq.eyebrow)}</span><h2>${esc(c.faq.title)}</h2></div><div class="faq-list">${c.faq.items.map(f=>`<details><summary>${esc(f[0])}</summary><div class="faq-answer"><p>${esc(f[1])}</p></div></details>`).join('')}</div></div></section>
@@ -106,15 +106,34 @@ function prepareEnquiry(event) {
   });
   window.location.href=url;
 }
-function downloadOverview() {
-  const c=content[currentLanguage],s=content.settings;
-  const text=[c.title,'',c.hero.text,'',...c.partnership.roles.flatMap(r=>[r[0],r[1],'']),c.partnership.note,'',c.products.title,...c.products.items.flatMap(p=>[p[1],p[2],p[3],'']),c.products.note,'',c.control.title,...c.control.features.flatMap(f=>[f[0],f[1],'']),c.control.note,'',c.network.title,...c.network.support.map(v=>'• '+v),c.network.note,'',s.email,s.phone,s.kantorUrl,s.rmUrl].join('\n');
-  const url=URL.createObjectURL(new Blob(['\ufeff'+text],{type:'text/plain;charset=utf-8'}));
-  const a=document.createElement('a');a.href=url;a.download=`VODAR-RM-Kantor-${currentLanguage}.txt`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+async function downloadOverview() {
+  const c=content[currentLanguage].contact,button=document.getElementById('download');
+  button.disabled=true;button.textContent=c.downloadPending;
+  document.getElementById('status').textContent=c.downloadPending;
+  try {
+    const manifestResponse=await fetch('documents/brochure.json');
+    if(!manifestResponse.ok)throw new Error('Brochure unavailable');
+    const manifest=await manifestResponse.json();
+    // Parts preserve the original PDF byte for byte while fitting static hosting limits.
+    const parts=await Promise.all(manifest.parts.map(async name=>{
+      const response=await fetch('documents/'+name);
+      if(!response.ok)throw new Error('Brochure part unavailable');
+      return response.arrayBuffer();
+    }));
+    const pdf=new Blob(parts,{type:'application/pdf'});
+    if(pdf.size!==manifest.bytes)throw new Error('Incomplete brochure');
+    const url=URL.createObjectURL(pdf),a=document.createElement('a');
+    a.href=url;a.download=manifest.filename;a.click();
+    setTimeout(()=>URL.revokeObjectURL(url),60000);
+    document.getElementById('status').textContent=c.download;
+  } catch {
+    document.getElementById('status').textContent=c.downloadError;
+    button.insertAdjacentElement('afterend',Object.assign(document.createElement('p'),{className:'download-error',textContent:c.downloadError}));
+  } finally {button.disabled=false;button.innerHTML=esc(c.download)+arrow;}
 }
 async function init() {
   try {
-    const r=await fetch('content.json?v=11', {cache:'no-store'});if(!r.ok)throw new Error('Content unavailable');content=await r.json();
+    const r=await fetch('content.json?v=13', {cache:'no-store'});if(!r.ok)throw new Error('Content unavailable');content=await r.json();
     let saved;try{saved=localStorage.getItem('vodar-language')}catch{}
     const query=new URL(location.href).searchParams.get('lang');
     const lang=Object.hasOwn(content,query)&&query!=='settings'?query:Object.hasOwn(content,saved)&&saved!=='settings'?saved:content.settings.defaultLanguage;
