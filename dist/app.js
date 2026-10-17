@@ -25,7 +25,7 @@ function render(lang, preserve={}) {
   document.getElementById('skip').textContent=c.skip;
   document.getElementById('navigation').setAttribute('aria-label',c.language==='Language'?'Main navigation':c.title);
   document.getElementById('navigation').innerHTML=c.nav.map((v,i)=>`<a href="#${['partnership','machines','control','contact'][i]}">${esc(v)}</a>`).join('');
-  const images=['pivot-selected-v4.webp','corner-selected-v4.webp','linear-selected-v4.webp','pump-station-selected-v4.webp'];
+  const images=['pivot-selected-v4.webp','corner-selected-v15.jpg','linear-selected-v4.webp','pump-station-selected-v4.webp'];
   const alts=['pivot','corner','linear','ditch'];
   const field=(key,autocomplete,type='text')=>`<label>${esc(c.contact[key])}<input name="${key}" type="${type}" autocomplete="${autocomplete}" ${['name','business','email','country'].includes(key)?'required':''} maxlength="180" value="${esc(preserve[key]||'')}"></label>`;
   document.getElementById('main').innerHTML=`
