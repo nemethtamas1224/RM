@@ -100,3 +100,11 @@ h1,h2,h3{hyphens:none}
 .download-error{color:#a51b2a;font-size:12px}
 @media(max-width:600px){.language select{min-width:104px;max-width:112px;padding:10px 8px}}
 @media(max-width:360px){.language{padding-left:0}.language select{min-width:98px;max-width:102px}}
+
+/* Separate company link below the VODAR brand, with no nested anchors. */
+.header-brand{display:flex;flex-direction:column;align-items:flex-start;gap:5px;margin-right:auto;flex-shrink:0;padding:10px 0}
+.header-brand .wordmark{margin-right:0}
+.kantor-header-link{font-size:12px;font-weight:600;line-height:1.3;letter-spacing:.2px;color:#fff;text-decoration:none;text-underline-offset:3px}
+.kantor-header-link:hover{text-decoration:underline}
+.kantor-header-link:focus-visible{outline:2px solid #fff;outline-offset:4px;border-radius:2px}
+@media(max-width:600px){.header-brand{gap:4px;padding:8px 0}.kantor-header-link{font-size:11px}}
