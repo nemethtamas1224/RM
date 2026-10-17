@@ -108,3 +108,6 @@ h1,h2,h3{hyphens:none}
 .kantor-header-link:hover{text-decoration:underline}
 .kantor-header-link:focus-visible{outline:2px solid #fff;outline-offset:4px;border-radius:2px}
 @media(max-width:600px){.header-brand{gap:4px;padding:8px 0}.kantor-header-link{font-size:11px}}
+
+/* Fill the corner product frame, keeping the machine in view. */
+.product-image.selected-photo[src$="corner-selected-v15.jpg"]{object-fit:cover;object-position:center 60%}
